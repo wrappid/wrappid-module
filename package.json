@@ -36,7 +36,7 @@
   "devDependencies": {
     "@commitlint/cli": "~17.5.0",
     "@commitlint/config-conventional": "~17.4.4",
-    "@commitlint/prompt-cli": "~17.5.0",
+    "@commitlint/prompt-cli": "~20.5.0",
     "@faker-js/faker": "~8.1.0",
     "@types/supertest": "~6.0.2",
     "@wrappid/core": "~0.0.465",
